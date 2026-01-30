@@ -1,1 +1,1 @@
-one
+i am adding this line into this txt file to see how various git commands work
